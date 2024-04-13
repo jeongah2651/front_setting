@@ -8,7 +8,7 @@ export default defineConfig({
     // root: '.', // 이 부분에서 프로젝트의 루트 디렉토리를 지정합니다.
     // build: {
     //     rollupOptions: {
-    //         input: './dist/index.html' // 여기에서 진입 파일을 지정합니다.
+    //         input: 'dist/index.html' // 여기에서 진입 파일을 지정합니다.
     //     }
     // }
 });
