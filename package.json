@@ -25,6 +25,7 @@
 		"eslint-plugin-promise": "^6.1.1",
 		"eslint-plugin-react": "^7.34.1",
 		"globals": "^15.0.0",
+		"html-vite-plugin": "^1.0.2",
 		"postcss": "^8.4.38",
 		"prettier": "^3.2.5",
 		"tailwindcss": "^3.4.3",
